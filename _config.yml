@@ -2,10 +2,10 @@ inc:
   # Blog Information
   title:
     en: "Yet Another Ecuatorian Localization for Odoo"
-    es: "Otra Localización Ecuatoriana de Odoo desarrollada por Manexware S.A."
+    es: "Otra Localización Ecuatoriana de Odoo"
   subtitle:
-    en: "A localization by developers for society"
-    es: "Una localización de desarrolladores para la sociedad"
+    en: "A localization by Manexware S.A. for society"
+    es: "Una localización de Manexware S.A. para la sociedad"
   languages:
     en:
         en: "English"
