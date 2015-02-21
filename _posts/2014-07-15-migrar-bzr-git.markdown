@@ -4,7 +4,7 @@ title:  Cómo migrar de Launchpad a Github
 date:   2014-07-July
 lang:   es
 author:
-  name: Cristian S. Rocha 
+  name: Manuel Vega Ulloa 
 categories: es func
 section: doc
 ---

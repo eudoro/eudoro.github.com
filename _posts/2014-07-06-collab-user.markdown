@@ -4,8 +4,8 @@ title:  Cómo colaborar como usuario
 date:   2014-07-July
 lang:   es
 author:
-  name: Cristian S. Rocha 
-  github: csrocha
+  name: Manuel Vega Ulloa 
+  github: eudoro
 categories: es func
 section: collab
 ---
@@ -14,7 +14,7 @@ Cómo usario puedes participar de varias maneras.
 
   * **Beta tester**. Tarea nada sencilla, ya que tienes que probar el módulo en producción. Te atreves? Averigua en que condiciones está el módulo antes de atreverte a tanto.
   * **Alpha tester**. Quieres probar el módulo? Haslo en un ambiente de homologación. No es tan arriesgado, pero quizás sientas un nivel de frustración muy grande al ver la cantidad de errores y problemas que podría tener un módulo. Solo te pedimos paciencia y confianza.
-  * **Promotor**. Busca un desarrollador, funcional y/o tester y contratalo para que mejore un módulo. Mira la lista de [colaboradores](https://github.com/orgs/odoo-l10n-ar/teams) y elige el mejor grupo que puedas armar!
+  * **Promotor**. Busca un desarrollador, funcional y/o tester y contratalo para que mejore un módulo. Mira la lista de [colaboradores](https://github.com/orgs/eudoro/teams) y elige el mejor grupo que puedas armar!
   * **Donador**. Has una donación directa sobre la localización. Ya te indicaremos como realizarla en forma anónima y electrónica en esta misma página cuando tengamos este asunto cerrado.
 
 <!-- more -->
@@ -26,7 +26,7 @@ El testing no es fácil. No es solo ejecutar algo y ver como funciona, es mucho 
   * Identificar bien la tarea que se desea testear.
   * Escribir un guión de lo que se va a hacer.
   * Ejecutar el guión al pie de la letra.
-  * Si encuentras un error, busca si existe o no un [caso/issue](https://github.com/organizations/odoo-l10n-ar/dashboard/issues/repos?direction=desc&state=open) en el módulo que probaste.
+  * Si encuentras un error, busca si existe o no un [caso/issue](https://github.com/organizations/eudoro/dashboard/issues/repos?direction=desc&state=open) en el módulo que probaste.
   * En el caso que el caso exista, subscribase al asunto. Luego agregue un comentario junto con el guión que ejecutó, y lo que devolvió el programa.
   * En el caso que el caso no exista, deberas crear uno nuevo junto con un comentario y el guión que ejecutaste, y lo que devolvió el programa.
   * Si recibes un comentario de un desarrollador que te pida que ejecutes nuevamente el guión, por favor hazlo y mira que resultado obtuviste. Esto nos va a permitir cerrar el asunto o seguir probando y desarrollando para eliminarlo.

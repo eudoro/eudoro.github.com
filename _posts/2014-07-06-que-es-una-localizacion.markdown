@@ -4,7 +4,7 @@ title:  ¿Qué es una localización?
 date:   2014-07-07 00:10:00
 lang:   es
 author:
-  name: Cristian S. Rocha 
+  name: Manuel Vega Ulloa 
 categories: es func
 references:
 section: faq
