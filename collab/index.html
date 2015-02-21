@@ -1,0 +1,45 @@
+---
+layout: base
+lang: es
+categories: es faq
+section: collab
+---
+<article class="container">
+{% for post in site.posts %}
+    {% if post.section == 'collab' %}
+    <section class="index">
+        <div>
+            <h2 class="title">{{ post.title }}</h2>
+            <p>{{ post.excerpt }} <a href="{{ post.url }}" rel="prefetch">leer más...</a></p>
+            <div class="meta">
+		{% if post.references %}
+		{{ site.inc.references_text.[[post.lang]] }}:
+		<ul class="references">
+		{% for ref in post.references %}
+		{% for r in ref %}
+		{% if r %}<li><a href="{{ r[1] }}">{{ r[0] }}</a></li>{% endif %}
+		{% endfor %}
+		{% endfor %}
+		</ul><br/>
+		{% endif %}
+		{{ site.inc.written_by_text.[[post.lang]] }} <address>{{ post.author.name }}</address> &mdash;
+                <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
+            </div>
+        </div>
+        <hr>
+    </section>
+    {% endif %}
+    {% endfor %}
+    <section class="pagination" style="text-align:center">
+      {% if paginator.previous_page %}
+        {% if paginator.previous_page == 1 %}
+        <a href="/" class="btn btn-outline">‹ Newer</a>
+        {% else %}
+        <a href="/page{{ paginator.previous_page }}" class="btn btn-outline">‹ Newer</a>
+        {% endif %}
+      {% endif %}
+      {% if paginator.next_page %}
+        <a href="/page{{ paginator.next_page }}" class="btn btn-outline">Older ›</a>
+      {% endif %}
+    </section>
+</article>
