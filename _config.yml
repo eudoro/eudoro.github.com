@@ -1,8 +1,8 @@
 inc:
   # Blog Information
   title:
-    en: "Yet Another Argentina Localization for Odoo"
-    es: "Otra Localización Argentina de Odoo"
+    en: "Yet Another Ecuatorian Localization for Odoo"
+    es: "Otra Localización Ecuatoriana de Odoo desarrollada por Manexware S.A."
   subtitle:
     en: "A localization by developers for society"
     es: "Una localización de desarrolladores para la sociedad"
@@ -18,8 +18,8 @@ inc:
   logo:         logo.png
   
   # Company information
-  company:      odoo_l10n_ar
-  url:          https://github.com/odoo-l10n-ar
+  company:      Manexware
+  url:          https://github.com/eudoro
   #facebook:     sendtoinc
   #twitter:      sendtoinc
   gplus:        '111927348615509591736'
@@ -47,7 +47,7 @@ inc:
   # Collaboration link
   
   # Github link
-  github_link: https://github.com/odoo-l10n-ar
+  github_link: https://github.com/eudoro
   github_text:
     en: "See me in GitHub"
     es: "Búscame en GitHub"
@@ -64,7 +64,7 @@ inc:
 
 
   # Product Information
-  #product_link: https://github.com/odoo-l10n-ar
+  #product_link: https://github.com/eudoro
   #tagline:      "GitHub"
   
   # Comments
@@ -96,7 +96,7 @@ collections:
   - questions 
 
 
-url:         https://github.com/odoo-l10n-ar
+url:         https://github.com/eudoro
 source:      .
 destination: ./_site
 plugins:     ./_plugins

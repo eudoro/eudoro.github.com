@@ -4,8 +4,8 @@ title:  Cómo colaborar como funcional
 date:   2014-07-July
 lang:   es
 author:
-  name: Cristian S. Rocha 
-  github: csrocha
+  name: Manuel Vega Ulloa 
+  github: eudoro
 categories: es func
 section: collab
 ---
