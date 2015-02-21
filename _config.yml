@@ -24,17 +24,17 @@ inc:
   #twitter:      sendtoinc
   gplus:        '111927348615509591736'
   faq:
-    link: /faq
+    link: /faq/
     text:
       es: "RPF"
       en: "FAQ"
   func:
-    link: /func
+    link: /func/
     text:
       es: "Funcionalidades"
       en: "Functionalities"
   collab:
-    link: /collab
+    link: /collab/
     text:
       es: "Cómo colaborar"
       en: "How to collaborate"
@@ -109,7 +109,7 @@ timezone:    nil
 future:      false
 show_drafts: nil
 limit_posts: 0
-highlighter:    true
+highlighter:    pygments
 
 relative_permalinks: true
 
