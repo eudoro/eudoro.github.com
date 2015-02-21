@@ -1,9 +1,20 @@
-odoo-ar.github.io
-=================
+# Repositorio de la página oficial de la otra localización
 
-Página Oficial de la Localización Argentina de Odoo (antiguamente OpenERP)
+Esta página tiene como objetivo introducir a desarrolladores, funcionales y usuarios a esta otra localización Argentina.
 
-Necesitamos manos para ayudar con la edicion de esta pagina. Los que le interese ayudar pueden hacerlo. 
+Usted tiene la libertad de realizar un fork de la misma para luego modificarla localmente, y así proponer cambios sobre la misma.
 
-Estamos en el foro: https://groups.google.com/forum/#!forum/odoo-localizacion-argentina
+Algunos cambios que podrían proponer son:
+
+* Traducciones.
+* Corrección Ortográfica, Sintáctica y Semántica.
+* Agregar contenido.
+* Modificar contenido.
+
+Por supuestos, los cambios no son aceptados inmediatamente, siempre hay una revisión de los dueños del repositorio. Pero somos abiertos a cualquier propuesta.
+
+Saludos,
+Cristian.
+
+
 
