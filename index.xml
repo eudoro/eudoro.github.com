@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title> on Grupo de Usuarios Java del Ecuador </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://jugpy.org/</link>
+    <language>es-EC</language>
+    <author>Java User Group Ecuador</author>
+
+    <updated>Fri, 31 Jul 2015 11:01:46 PYT</updated>
+
+    <item>
+      <title>Reunión de fundación del Grupo de Usuarios Java del Ecuador</title>
+      <link>http://eudoro.github.io/post/inicio/</link>
+      <pubDate>Mon, 27 Jul 2015 13:14:07 PYT</pubDate>
+      <author>Java User Group Ecuador</author>
+      <guid>http://eudoro.github.io/post/inicio/</guid>
+      <description>
+</description>
+    </item>
+
+  </channel>
+</rss>
